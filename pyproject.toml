@@ -1,0 +1,15 @@
+[project]
+name = "adaptive-resilient-power"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "comtrade>=0.1.2",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "regex>=2024.11.6",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+]

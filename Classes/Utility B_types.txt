@@ -1,0 +1,12 @@
+ITIC Van L2 Sag
+ITIC Van L4 Sag
+ITIC Van L8 Sag
+ITIC Vbn L2 Sag
+ITIC Vbn L4 Sag
+ITIC Vbn L8 Sag
+ITIC Vcn L2 Sag
+ITIC Vcn L4 Sag
+ITIC Vcn L8 Sag
+Out of Limits Vllavg OOL Low
+Out of Limits Vllavg Reset
+Sub-Cycle Disturbance Triggered

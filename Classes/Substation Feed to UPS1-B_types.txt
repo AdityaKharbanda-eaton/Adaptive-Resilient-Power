@@ -1,0 +1,10 @@
+ITIC Van L2 Sag
+ITIC Van L4 Sag
+ITIC Vbn L2 Sag
+ITIC Vbn L4 Sag
+ITIC Vbn L8 Sag
+ITIC Vcn L2 Sag
+ITIC Vcn L4 Sag
+ITIC Vcn L8 Sag
+Modbus Request Triggered
+Sub-Cycle Disturbance Triggered

@@ -1,0 +1,42 @@
+Fast Transient FastTransientAbsThrA Triggered
+Fast Transient FastTransientAbsThrB Triggered
+Fast Transient FastTransientAbsThrC Triggered
+Fast Transient FastTransientAbsThrN Triggered
+Fast Transient FastTransientDvThrA Triggered
+Fast Transient FastTransientDvThrN Triggered
+ITIC Vab L2 Sag
+ITIC Vab L4 Sag
+ITIC Vab L8 Sag
+ITIC Van L2 Sag
+ITIC Van L2 Swell
+ITIC Van L4 Sag
+ITIC Van L8 Sag
+ITIC Vbc L2 Sag
+ITIC Vbc L4 Sag
+ITIC Vbn L2 Sag
+ITIC Vbn L2 Swell
+ITIC Vbn L4 Sag
+ITIC Vbn L8 Sag
+ITIC Vca L2 Sag
+ITIC Vca L4 Sag
+ITIC Vcn L2 Sag
+ITIC Vcn L4 Sag
+ITIC Vcn L8 Sag
+Modbus Request Triggered
+Out of Limits Vllavg OOL Low
+Out of Limits Vllavg Reset
+SEMI F47 Vab L1-Sag
+SEMI F47 Vab L3-Sag
+SEMI F47 Van L3-Sag
+SEMI F47 Vbc L2-Sag
+SEMI F47 Vbc L3-Sag
+SEMI F47 Vbn L2-Sag
+SEMI F47 Vbn L3-Sag
+SEMI F47 Vca L3-Sag
+SEMI F47 Vcn L2-Sag
+SEMI F47 Vcn L3-Sag
+Sub-Cycle Disturbance Triggered
+Sub-Cycle Disturbance WD Vag Triggered
+Sub-Cycle Disturbance WD Vbg Triggered
+Sub-Cycle Disturbance WD Vcg Triggered
+Waveform Request Triggered
