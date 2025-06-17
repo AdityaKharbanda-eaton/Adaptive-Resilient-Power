@@ -14,3 +14,4 @@ normalised_sag_df.pkl
 normalised_subcycledist_df.pkl
 KentuckyUPS_TEST.tsv
 KentuckyUPS_TRAIN.tsv
+__pycache__
