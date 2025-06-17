@@ -135,7 +135,7 @@ def extract_variables(matches) -> list:
 
 def extract_trigger_timestamp(comtrade):
     hdr_content = comtrade.hdr
-    timestamps = re.findall(r"Description:\s+(\d{2}\s\w{3}\s'\d{2}\s\d{2}:\d{2}:\d{2}\.\d{3})\s[+-]", hdr_content)
+    timestamps = re.findall(r"Description:!?\s+(\d{2}\s\w{3}\s'\d{2}\s\d{2}:\d{2}:\d{2}\.\d{3})\s[+-]", hdr_content)
     for i in range(len(timestamps)):
         timestamps[i] = datetime.strptime(timestamps[i], "%d %b '%y %H:%M:%S.%f")
     return timestamps
